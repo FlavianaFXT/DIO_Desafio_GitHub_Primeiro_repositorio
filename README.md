@@ -1,2 +1,9 @@
-# DIO_Desafio_GitHub_Primeiro_repositorio
-Desafio de Projeto do Bootcamp Orange Tech+ da DIO, Criando seu Primeiro Repositorio no GitHub
+# Repositório de Projeto Git/GitHub _Orange Tech+ DIO 
+
+Repositório para o Desafio de Projeto "Criando seu primeiro Repositorio no GitHub", desenvolvido no Bootcamp Orange Tech+ da DIO
+
+## Links Uteis
+[Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+
+
