@@ -1,4 +1,4 @@
-# Repositório de Projeto Git/GitHub _Orange Tech+ DIO 
+# Repositório de Projeto Git/GitHub _Orange Tech+DIO 
 
 Repositório para o Desafio de Projeto "Criando seu primeiro Repositorio no GitHub", desenvolvido no Bootcamp Orange Tech+ da DIO
 
